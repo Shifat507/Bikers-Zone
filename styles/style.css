@@ -1,0 +1,9 @@
+.font-background{
+    margin-top: 0%;
+    background-image: url(../images/bike-banner.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 100vh;
+
+}
